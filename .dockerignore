@@ -1,0 +1,15 @@
+.git/
+.github/
+coverage/
+tmp/
+node_modules/
+. stylelintrc
+.editorconfig
+.eslintrc
+.gitignore
+.travis.yml
+Dockerfile
+jest.config.js
+Procfile
+.dockerignore
+
